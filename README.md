@@ -1,6 +1,4 @@
-# Cpp-Carpet-Cleaning
-
-## About Cpp-Favorite-Number
+## About Cpp-Carpet-Cleaning
 
 <p>C++ Course Tutorial Challenge #2</p>
 
